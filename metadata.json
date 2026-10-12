@@ -1,0 +1,6 @@
+{
+  "name": "NutriSteps",
+  "description": "AI voice food and macro tracker with live step count calorie balancing, personalized meal suggestions, and wellness progress dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NutriSteps</string>
+    <string name="tagline">Voice Nutrition &amp; Step Calorie Tracker</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_voice_log">Voice Log</string>
+    <string name="nav_meals">Meals</string>
+    <string name="nav_suggestions">AI Suggestions</string>
+    <string name="nav_history">Trends</string>
+    <string name="step_counter_title">Daily Steps &amp; Activity</string>
+    <string name="calories_burned">Burned</string>
+    <string name="calories_consumed">Consumed</string>
+    <string name="net_calories">Net Calories</string>
+    <string name="remaining_budget">Remaining</string>
+</resources>
